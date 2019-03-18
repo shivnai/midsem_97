@@ -1,0 +1,10 @@
+Pre-increment operator: A pre-increment operator is used to increment the value of a variable before using it in a expression. In the Pre-Increment, value is first incremented and then used inside the expression.
+
+
+
+
+
+
+Post-increment operator: A post-increment operator is used to increment the value of variable after executing expression completely in which post increment is used. In the Post-Increment, value is first used in a expression and then incremented.
+
+
