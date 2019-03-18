@@ -31,4 +31,4 @@ int main()
   
   }
 
-  this is a increment coding
+  this is pre increment coding
